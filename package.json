@@ -1,0 +1,20 @@
+{
+  "name": "rc-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ringcentral/sdk": "^4.6.2",
+    "@ringcentral/subscriptions": "^4.6.2",
+    "body-parser": "^1.19.1",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2"
+  }
+}
